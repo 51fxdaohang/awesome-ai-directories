@@ -9,6 +9,7 @@
 
 ## 🚀 Top AI Launch Directories
 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [AI Toolhouse](https://aitoolhouse.gumroad.com) – AI Toolhouse catalogs AI tools - buyers browse by category, so sharp use-case positioning beats generic “AI-powered”…
 * [Neil Patel AI Tools Directory](https://neilpatel.com) – Curated AI tools directory inside Neil Patel's marketing publication.
 * [Dang.ai](https://dang.ai) – AI tool discovery directory with category-based browsing and editorial picks.
@@ -74,7 +75,7 @@ Please only add platforms that are **free or freemium to submit**, actively main
 
 ## 🔗 Full directory
 
-This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 47 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
+This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 48 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
 
 ---
 
